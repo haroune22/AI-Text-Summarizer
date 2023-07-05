@@ -1,6 +1,6 @@
 // vite.config.js
-import { defineConfig } from "file:///C:/Users/Haroune/OneDrive/Bureau/React%20js/AI-Summarizer/node_modules/vite/dist/node/index.js";
-import react from "file:///C:/Users/Haroune/OneDrive/Bureau/React%20js/AI-Summarizer/node_modules/@vitejs/plugin-react/dist/index.mjs";
+import { defineConfig } from "//";
+import react from "//";
 var vite_config_default = defineConfig({
   plugins: [react()]
 });
